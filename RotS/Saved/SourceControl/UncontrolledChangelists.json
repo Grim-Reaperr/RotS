@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/stringstar_fields/tileset_TileSet.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/stringstar_fields/Map1.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Idle/Idle.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Jump/Jump.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Run/Run.uasset",
@@ -60,6 +58,9 @@
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Walk/Walk_Sprite_8.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Blueprints/GameMode_SM.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/Test_Map.umap",
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Jump/Jump_SM.uasset",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/stringstar_fields/tileset_TileSet.uasset",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/stringstar_fields/Map1.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/RotS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/RotS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/RotS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset",
