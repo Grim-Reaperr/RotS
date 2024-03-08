@@ -1,2 +1,6 @@
 
 RotS/Saved/Logs/RotS.log
+*.log
+RotS/Saved/Logs/RotS.log
+RotS/Saved/SourceControl/UncontrolledChangelists.json
+*.log
