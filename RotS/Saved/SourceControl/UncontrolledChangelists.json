@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Pixel_art_Platformer/Tilesets/Tile_Map2.uasset",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/LevelMenu.uasset",
@@ -13,6 +14,11 @@
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Blueprints/MovingPlatform.uasset",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/MainMenu.uasset"
+=======
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/Level_BP.uasset",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/ChooseLevel.uasset",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/ChooseLevel.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
