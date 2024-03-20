@@ -5,65 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/MenuGamemode.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/MainMenu.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/BG_10.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/NewBlueprint.uasset",
-=======
->>>>>>> a49466a010c1437bec69898ac5d48d48557af213
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Blueprints/Samurai.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Heavy_Attack_SM-Test.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/Map1.umap",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Attack_2_Sprite_4.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Attack_2_Sprite_3.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Attack_2_Sprite_0.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Attack_2_Sprite_1.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_2/Attack_2_Sprite_2.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_3/Attack_3_Sprite_3.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_3/Attack_3_Sprite_2.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_3/Sprint_Attack_SM.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_3/Attack_3_Sprite_0.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Attack_3/Attack_3_Sprite_1.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Walk/Walk_SM.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Block/Protection.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Block/Block_SM.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/MainMenuMap.umap",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/MenuGamemode.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/MainMenu.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/BG_10.uasset",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
-				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/NewBlueprint.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Block/start_Block_SM.uasset"
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> a49466a010c1437bec69898ac5d48d48557af213
-<<<<<<< Updated upstream
->>>>>>> Jonas-1
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Pixel_art_Platformer/Tilesets/Tile_Map2.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/LevelMenu.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/LevelMap.umap",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/Level_Gamemode.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Blueprints/MovingPlatform.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/MainMenu.uasset"
-<<<<<<< HEAD
->>>>>>> Jonas-1
-=======
-=======
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/Level_BP.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/UI/ChooseLevel.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/ChooseLevel.umap"
->>>>>>> Stashed changes
->>>>>>> Jonas-1
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Blueprints/EndLevel.uasset",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
+				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Test_Map.umap"
 			]
 		}
 	]
