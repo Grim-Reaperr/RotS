@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/PauseMenu.uasset",
 				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/PauseMenu_WPB.uasset",
 				"C:/Program Files/Dokomente/Dokumente/Unreal Projects/RotS/RotS/Content/UI/PauseMenu_WBP.uasset",
@@ -14,6 +15,10 @@
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Map1.umap",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/MainMenuMap.umap",
 				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/Test_Map.umap"
+=======
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/MainMenuMap.umap",
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/MM-Music.uasset"
+>>>>>>> Philip-1
 			]
 		}
 	]
