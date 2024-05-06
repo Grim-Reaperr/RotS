@@ -5,29 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Tilemap.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Maps/1Level.umap",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_2.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Blueprints/LiftPLatform.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_0.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_1.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_3.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_4.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_5.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_TileSet_Sprite_6.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Blueprints/Samurai.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background1.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background2.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background3.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_Hanging_Plants_TileSet1.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background4.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background5.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Backgroung7.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/1Background6.uasset",
-				"C:/Users/Epic_/Documents/Unreal Projects/RotS/RotS/Content/Assets/Templates/Assets/MossyAssets/Mossy_-_Decorations_Hazards_TileSet1.uasset"
-=======
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Run/Run_Sprite_0.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Player_Chars/Samurai/Run/Run_SM.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Blueprints/Samurai.uasset",
@@ -43,16 +20,12 @@
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Blueprints/Controller_SM.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Blueprints/GameMode_SM.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/UI/MenuGamemode.uasset",
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_Cue.uasset",
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_Nihon_Minyo_Kumikyoku_Dai_Ichi-Ban__Ukiyo-e_-HQ.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/MM-Music_Cue.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_p1.uasset",
 				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_p2.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_ThemeCue.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/1Level.umap",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Maps/TESTEST.umap",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Assets/Templates/Assets/MossyAssets/1Tilemap.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_Cue.uasset",
-				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_Theme_Nihon_Minyo_Kumikyoku_Dai_Ichi-Ban__Ukiyo-e_-HQ.uasset"
->>>>>>> main
+				"C:/Users/43650/Documents/Unreal Projects/Revenge_of_the_Samurai/RotS/Content/Music/Main_Menu_ThemeCue.uasset"
 			]
 		}
 	]
