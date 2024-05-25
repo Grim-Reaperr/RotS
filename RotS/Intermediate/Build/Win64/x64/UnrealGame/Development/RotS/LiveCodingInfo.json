@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RotS.cpp.obj": [
+			"RotS.cpp.obj"
+		]
+	}
+}
