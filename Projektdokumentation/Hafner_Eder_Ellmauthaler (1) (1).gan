@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Overlord" company="HTL Saalfelden" webLink="http://" view-date="2024-02-12" view-index="0" gantt-divider-location="316" resource-divider-location="362" version="3.2.3247" locale="de_DE">
+<?xml version="1.0" encoding="UTF-8"?><project name="Overlord" company="HTL Saalfelden" webLink="http://" view-date="2024-03-04" view-index="0" gantt-divider-location="274" resource-divider-location="362" version="3.2.3247" locale="de_DE">
     <description/>
-    <view zooming-state="default:4" id="gantt-chart">
-        <field id="tpd3" name="Vorgang" width="170" order="0"/>
-        <field id="tpd4" name="Anfang" width="65" order="1"/>
-        <field id="tpd5" name="Ende" width="65" order="2"/>
+    <view zooming-state="default:5" id="gantt-chart">
+        <field id="tpd3" name="Vorgang" width="146" order="0"/>
+        <field id="tpd4" name="Anfang" width="56" order="1"/>
+        <field id="tpd5" name="Ende" width="56" order="2"/>
         <option id="filter.completedTasks" value="false"/>
     </view>
     <view id="resource-table">
@@ -139,78 +139,74 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="2" name="Sandbox" color="#8cb6ce" meeting="false" start="2024-02-07" duration="34" complete="0" thirdDate="2024-02-07" thirdDate-constraint="0" expand="true">
-            <task id="3" name="Geradlinige Map" color="#8cb6ce" meeting="false" start="2024-02-07" duration="4" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
-            <task id="4" name="Spielerfigur" color="#8cb6ce" meeting="false" start="2024-02-07" duration="23" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true">
+        <task id="2" name="Sandbox" color="#8cb6ce" meeting="false" start="2024-02-07" duration="33" complete="0" thirdDate="2024-02-07" thirdDate-constraint="0" expand="true">
+            <task id="3" name="Geradlinige Map" color="#8cb6ce" meeting="false" start="2024-02-07" duration="3" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
+            <task id="4" name="Spielerfigur" color="#8cb6ce" meeting="false" start="2024-02-07" duration="16" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="false">
                 <depend id="13" type="2" difference="0" hardness="Strong"/>
                 <depend id="34" type="2" difference="0" hardness="Strong"/>
-                <task id="5" name="Einfache Steuerung Figur" color="#8cb6ce" meeting="false" start="2024-02-07" duration="2" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true">
+                <task id="5" name="Einfache Steuerung Figur" color="#8cb6ce" meeting="false" start="2024-02-07" duration="11" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true">
                     <depend id="7" type="2" difference="1" hardness="Strong"/>
                     <depend id="31" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="6" name="Grafik Figur" color="#8cb6ce" meeting="false" start="2024-02-07" duration="4" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true">
                     <depend id="7" type="2" difference="0" hardness="Strong"/>
-                    <depend id="8" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="7" name="Sounds einfügen" color="#8cb6ce" meeting="false" start="2024-02-28" duration="4" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
-                <task id="8" name="Items aufsammeln" color="#8cb6ce" meeting="false" start="2024-04-24" duration="5" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
+                <task id="7" name="Sounds einfügen" color="#8cb6ce" meeting="false" start="2024-04-03" duration="4" complete="0" thirdDate="2024-01-26" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="9" name="Items" color="#000000" meeting="false" start="2024-02-21" duration="15" complete="0" thirdDate="2024-02-21" thirdDate-constraint="0" expand="true">
-                <task id="10" name="Items spawnen" color="#8cb6ce" meeting="false" start="2024-02-21" duration="8" complete="0" thirdDate="2024-03-06" thirdDate-constraint="0" expand="true">
+            <task id="9" name="Items(optional)" color="#000000" meeting="false" start="2024-02-21" duration="7" complete="0" thirdDate="2024-02-21" thirdDate-constraint="0" expand="false">
+                <task id="38" name="Items aufsammeln" meeting="false" start="2024-03-13" duration="1" complete="0" expand="true"/>
+                <task id="10" name="Items spawnen" color="#8cb6ce" meeting="false" start="2024-02-21" duration="3" complete="0" thirdDate="2024-03-06" thirdDate-constraint="0" expand="true">
                     <depend id="12" type="2" difference="1" hardness="Strong"/>
                 </task>
-                <task id="12" name="Effekte von Items" color="#8cb6ce" meeting="false" start="2024-03-22" duration="6" complete="0" thirdDate="2024-03-20" thirdDate-constraint="0" expand="true">
-                    <depend id="8" type="2" difference="1" hardness="Strong"/>
+                <task id="12" name="Effekte von Items" color="#8cb6ce" meeting="false" start="2024-03-06" duration="2" complete="0" thirdDate="2024-03-20" thirdDate-constraint="0" expand="true">
+                    <depend id="38" type="2" difference="0" hardness="Strong"/>
                 </task>
             </task>
-            <task id="13" name="Mapbauen" color="#000000" meeting="false" start="2024-05-15" duration="6" complete="0" thirdDate="2024-04-12" thirdDate-constraint="0" expand="false">
-                <depend id="18" type="2" difference="0" hardness="Strong"/>
-                <depend id="33" type="2" difference="0" hardness="Strong"/>
-                <task id="14" name="Statische Hindernisse" color="#8cb6ce" meeting="false" start="2024-05-15" duration="2" complete="0" thirdDate="2024-04-24" thirdDate-constraint="0" expand="true">
+            <task id="13" name="Mapbauen" color="#000000" meeting="false" start="2024-04-17" duration="15" complete="0" thirdDate="2024-04-17" thirdDate-constraint="1" expand="false">
+                <task id="14" name="Maps &amp; Statische Hindernisse" color="#8cb6ce" meeting="false" start="2024-04-17" duration="10" complete="0" thirdDate="2024-04-24" thirdDate-constraint="0" expand="true">
                     <depend id="15" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="15" name="Bewegende Hindernisse" color="#8cb6ce" meeting="false" start="2024-05-22" duration="2" complete="0" thirdDate="2024-05-03" thirdDate-constraint="0" expand="true">
+                <task id="15" name="Bewegende Hindernisse" color="#8cb6ce" meeting="false" start="2024-05-24" duration="3" complete="0" thirdDate="2024-05-03" thirdDate-constraint="0" expand="true">
                     <depend id="16" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="16" name="Mehrere Fortbewegungsobjekt" color="#8cb6ce" meeting="false" start="2024-05-29" duration="2" complete="0" thirdDate="2024-05-10" thirdDate-constraint="0" expand="true"/>
+                <task id="16" name="Mehrere Fortbewegungsobjekt(optional)" color="#8cb6ce" meeting="false" start="2024-06-05" duration="2" complete="0" thirdDate="2024-05-10" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="22" name="Savestates" color="#000000" meeting="false" start="2024-03-15" duration="16" complete="0" thirdDate="2024-02-28" thirdDate-constraint="0" expand="false">
-                <task id="23" name="Checkpoints" color="#8cb6ce" meeting="false" start="2024-03-15" duration="3" complete="0" thirdDate="2024-02-28" thirdDate-constraint="0" expand="true">
+            <task id="22" name="Savestates" color="#000000" meeting="false" start="2024-04-03" duration="11" complete="0" thirdDate="2024-02-28" thirdDate-constraint="0" expand="false">
+                <task id="23" name="Checkpoints" color="#8cb6ce" meeting="false" start="2024-04-03" duration="3" complete="0" thirdDate="2024-02-28" thirdDate-constraint="0" expand="true">
                     <depend id="24" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="24" name="Stats speichern in Datei" color="#8cb6ce" meeting="false" start="2024-04-03" duration="3" complete="0" thirdDate="2024-03-08" thirdDate-constraint="0" expand="true">
+                <task id="24" name="Stats speichern in Datei" color="#8cb6ce" meeting="false" start="2024-04-12" duration="6" complete="0" thirdDate="2024-03-08" thirdDate-constraint="0" expand="true">
                     <depend id="25" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="25" name="Mehrere Speicherstände" color="#8cb6ce" meeting="false" start="2024-04-12" duration="10" complete="0" thirdDate="2024-03-20" thirdDate-constraint="0" expand="true"/>
+                <task id="25" name="Mehrere Speicherstände(optional)" color="#8cb6ce" meeting="false" start="2024-05-08" duration="2" complete="0" thirdDate="2024-03-20" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="18" name="NPC" color="#000000" meeting="false" start="2024-06-05" duration="3" complete="0" thirdDate="2024-04-24" thirdDate-constraint="0" expand="false">
-                <depend id="35" type="2" difference="0" hardness="Strong"/>
-                <task id="19" name="Erste NPC (interaktionen)" meeting="false" start="2024-06-05" duration="1" complete="0" expand="true">
-                    <depend id="20" type="2" difference="0" hardness="Strong"/>
-                </task>
-                <task id="20" name="Erste feindliche KI" meeting="false" start="2024-06-07" duration="1" complete="0" expand="true">
+            <task id="18" name="NPC" color="#000000" meeting="false" start="2024-05-03" duration="11" complete="0" thirdDate="2024-04-24" thirdDate-constraint="0" expand="false">
+                <task id="39" name="Feindliche KI" color="#8cb6ce" meeting="false" start="2024-05-17" duration="6" complete="0" thirdDate="2024-05-17" thirdDate-constraint="0" expand="true">
                     <depend id="21" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="21" name="Mehrere Feindliche KIs" meeting="false" start="2024-06-12" duration="1" complete="0" expand="true"/>
+                <task id="19" name="Erste NPC (interaktionen)" color="#8cb6ce" meeting="false" start="2024-05-03" duration="4" complete="0" thirdDate="2024-06-05" thirdDate-constraint="0" expand="true">
+                    <depend id="35" type="2" difference="0" hardness="Strong"/>
+                    <depend id="39" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="21" name="Mehrere Feindliche KIs(optional)" color="#8cb6ce" meeting="false" start="2024-06-07" duration="1" complete="0" thirdDate="2024-06-12" thirdDate-constraint="0" expand="true"/>
             </task>
             <task id="26" name="Menü" color="#000000" meeting="false" start="2024-04-03" duration="11" complete="0" thirdDate="2024-02-02" thirdDate-constraint="0" expand="false">
-                <task id="28" name="Einstellungen" color="#000000" meeting="false" start="2024-04-19" duration="6" complete="0" thirdDate="2024-02-09" thirdDate-constraint="0" expand="true">
+                <task id="28" name="Einstellungen" color="#000000" meeting="false" start="2024-04-19" duration="6" complete="0" thirdDate="2024-02-09" thirdDate-constraint="0" expand="false">
                     <task id="30" name="Musiklautstärke" color="#8cb6ce" meeting="false" start="2024-04-19" duration="2" complete="0" thirdDate="2024-02-02" thirdDate-constraint="0" expand="true">
                         <depend id="31" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="31" name="Steuerungskonfiguration" color="#8cb6ce" meeting="false" start="2024-04-26" duration="4" complete="0" thirdDate="2024-02-21" thirdDate-constraint="0" expand="true"/>
+                    <task id="31" name="Steuerungskonfiguration(optional)" color="#8cb6ce" meeting="false" start="2024-04-26" duration="4" complete="0" thirdDate="2024-02-21" thirdDate-constraint="0" expand="true"/>
                 </task>
                 <task id="27" name="Menü (Overworld)" color="#8cb6ce" meeting="false" start="2024-04-03" duration="10" complete="0" thirdDate="2024-02-02" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="32" name="Musik" color="#000000" meeting="false" start="2024-05-15" duration="11" complete="0" thirdDate="2024-04-19" thirdDate-constraint="0" expand="false">
-                <task id="33" name="Hintergrundmusik" color="#8cb6ce" meeting="false" start="2024-06-05" duration="1" complete="0" thirdDate="2024-05-17" thirdDate-constraint="0" expand="true"/>
-                <task id="34" name="Spielersounds" color="#8cb6ce" meeting="false" start="2024-05-15" duration="1" complete="0" thirdDate="2024-05-15" thirdDate-constraint="0" expand="true"/>
-                <task id="35" name="NPC sounds" color="#8cb6ce" meeting="false" start="2024-06-14" duration="2" complete="0" thirdDate="2024-02-02" thirdDate-constraint="0" expand="true"/>
+            <task id="32" name="Musik" color="#000000" meeting="false" start="2024-04-17" duration="12" complete="0" thirdDate="2024-04-19" thirdDate-constraint="0" expand="false">
+                <task id="33" name="Hintergrundmusik" color="#8cb6ce" meeting="false" start="2024-05-15" duration="5" complete="0" thirdDate="2024-05-17" thirdDate-constraint="0" expand="true"/>
+                <task id="34" name="Spielersounds" color="#8cb6ce" meeting="false" start="2024-04-17" duration="3" complete="0" thirdDate="2024-05-15" thirdDate-constraint="0" expand="true"/>
+                <task id="35" name="NPC sounds" color="#8cb6ce" meeting="false" start="2024-05-17" duration="2" complete="0" thirdDate="2024-02-02" thirdDate-constraint="0" expand="true"/>
             </task>
             <task id="36" name="Zwischenpresentation" color="#8cb6ce" meeting="true" start="2024-03-22" duration="0" complete="0" thirdDate="2024-02-07" thirdDate-constraint="0" expand="true"/>
             <task id="37" name="Endtermin" color="#8cb6ce" meeting="true" start="2024-06-19" duration="0" complete="0" thirdDate="2024-02-07" thirdDate-constraint="0" expand="true"/>
         </task>
-        <task id="38" name="task_38" meeting="false" start="2024-02-21" duration="1" complete="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Jonas" function="Default:0" contacts="" phone=""/>
@@ -218,21 +214,39 @@
         <resource id="2" name="Philip" function="Default:0" contacts="" phone=""/>
     </resources>
     <allocations>
-        <allocation task-id="13" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
-        <allocation task-id="2" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
+        <allocation task-id="13" resource-id="0" function="Default:0" responsible="true" load="90.0"/>
+        <allocation task-id="2" resource-id="0" function="Default:0" responsible="true" load="10.0"/>
         <allocation task-id="26" resource-id="0" function="Default:0" responsible="false" load="50.0"/>
-        <allocation task-id="2" resource-id="1" function="Default:0" responsible="false" load="50.0"/>
-        <allocation task-id="26" resource-id="1" function="Default:0" responsible="true" load="20.0"/>
+        <allocation task-id="3" resource-id="0" function="Default:0" responsible="true" load="25.0"/>
+        <allocation task-id="14" resource-id="0" function="Default:0" responsible="true" load="70.0"/>
+        <allocation task-id="15" resource-id="0" function="Default:0" responsible="true" load="70.0"/>
+        <allocation task-id="16" resource-id="0" function="Default:0" responsible="true" load="70.0"/>
+        <allocation task-id="22" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="23" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="24" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="28" resource-id="0" function="Default:0" responsible="true" load="5.0"/>
+        <allocation task-id="27" resource-id="0" function="Default:0" responsible="false" load="15.0"/>
+        <allocation task-id="2" resource-id="1" function="Default:0" responsible="true" load="10.0"/>
+        <allocation task-id="26" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="18" resource-id="1" function="Default:0" responsible="false" load="20.0"/>
-        <allocation task-id="22" resource-id="1" function="Default:0" responsible="true" load="20.0"/>
-        <allocation task-id="18" resource-id="1" function="Default:0" responsible="false" load="10.0"/>
-        <allocation task-id="13" resource-id="2" function="Default:0" responsible="false" load="30.0"/>
-        <allocation task-id="2" resource-id="2" function="Default:0" responsible="false" load="50.0"/>
-        <allocation task-id="9" resource-id="2" function="Default:0" responsible="true" load="20.0"/>
-        <allocation task-id="28" resource-id="2" function="Default:0" responsible="true" load="25.0"/>
-        <allocation task-id="4" resource-id="2" function="Default:0" responsible="true" load="30.0"/>
+        <allocation task-id="18" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="22" resource-id="1" function="Default:0" responsible="false" load="20.0"/>
+        <allocation task-id="23" resource-id="1" function="Default:0" responsible="false" load="30.0"/>
+        <allocation task-id="24" resource-id="1" function="Default:0" responsible="false" load="30.0"/>
+        <allocation task-id="19" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="30" resource-id="1" function="Default:0" responsible="true" load="60.0"/>
+        <allocation task-id="28" resource-id="1" function="Default:0" responsible="false" load="90.0"/>
+        <allocation task-id="27" resource-id="1" function="Default:0" responsible="true" load="30.0"/>
+        <allocation task-id="32" resource-id="1" function="Default:0" responsible="false" load="25.0"/>
+        <allocation task-id="2" resource-id="2" function="Default:0" responsible="true" load="10.0"/>
+        <allocation task-id="4" resource-id="2" function="Default:0" responsible="true" load="80.0"/>
         <allocation task-id="32" resource-id="2" function="Default:0" responsible="true" load="30.0"/>
-        <allocation task-id="18" resource-id="2" function="Default:0" responsible="true" load="30.0"/>
+        <allocation task-id="13" resource-id="2" function="Default:0" responsible="false" load="10.0"/>
+        <allocation task-id="19" resource-id="2" function="Default:0" responsible="false" load="15.0"/>
+        <allocation task-id="30" resource-id="2" function="Default:0" responsible="false" load="40.0"/>
+        <allocation task-id="28" resource-id="2" function="Default:0" responsible="false" load="5.0"/>
+        <allocation task-id="14" resource-id="2" function="Default:0" responsible="false" load="10.0"/>
+        <allocation task-id="18" resource-id="2" function="Default:0" responsible="false" load="5.0"/>
     </allocations>
     <vacations/>
     <previous>

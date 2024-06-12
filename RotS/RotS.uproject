@@ -20,6 +20,10 @@
 			"Name": "ReadlocalTXT",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/396a5fc67397431ab820c6e2d4717618"
+		},
+		{
+			"Name": "EncryptionPlugin",
+			"Enabled": false
 		}
 	]
 }
